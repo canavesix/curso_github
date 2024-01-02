@@ -1,11 +1,4 @@
 Testando Feature
 #API_LOGIN
 
-teste 
-teste
-
-
-
-
-
-teste
+:0
